@@ -1,0 +1,6 @@
+id,name,cured,room_id
+1,scott,true,1
+2,nick,false,1
+3,shinji,false,2
+4,Rina,false,2
+5,Mao,false,2
